@@ -44,8 +44,8 @@ section nav ul li{
 section nav ul li a{
     text-decoration: none;
     color: #000;
-    font-weight: 500;
-    font-size: 17px;
+    font-weight: 700;
+    font-size: 15px ;
     transition: 0.1s;
 }
 
@@ -127,8 +127,8 @@ section p{
 section .main_btn{
     background: #fac031;
     position: relative;
-    left: 123px;
-    bottom: 30px;
+    left: 550px;
+    bottom: 45px;
     width: 150px;
     cursor: pointer;
     padding: 12px 25px;
