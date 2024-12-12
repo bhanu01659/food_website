@@ -106,6 +106,14 @@ section .main .main_image img{
     position: relative;
     left: 70px;
 }
+section .main .main_image img{
+    animation: imgRotate 50s linear infinite;
+  }
+  @keyframes imgRotate{
+    100%{
+        transform: rotate(360deg);
+    }
+}
 
 section p{
     width: 650px;
